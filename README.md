@@ -1,2 +1,2 @@
 # hangman
-Basic game of hangman built with javascript for your web browser.  
+Basic game of hangman built with vanila javascript for your browser.  
